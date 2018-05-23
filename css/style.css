@@ -1,0 +1,73 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+.topnav {
+  font-size: 16px;
+  border-bottom: 1px outset black;
+  background: white;
+}
+
+.home-main{
+  padding-top: 50px; 
+  height: 555px;  
+}
+
+.logo{
+  padding-top: 40%; 
+  display: block;
+  position: relative;
+  left: 50%;
+  width: 24.536%;
+  height: auto;
+  transform: translate(-50%, -50%);
+}
+
+.store-badge {
+  height: 150;
+  width: auto;
+}
+
+.portfolio{
+  padding-top: 50px; 
+  padding-bottom: 50px;
+  text-align: center;
+  background: url('https://40.media.tumblr.com/1b916597d3e174399cb7adadddb66ede/tumblr_nt5uk4psl31ud7rr3o1_1280.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: auto;
+}
+
+.resume{
+  padding-top: 50px; 
+  padding-bottom: 50px;
+  background-color: #f7fafb;
+  background-size: cover;
+  height: auto;
+}
+
+.resume-headers-main{
+  color:gray;
+  text-align: left;
+}
+
+.resume-headers{
+  text-align:left;
+}
+
+.contact{
+  padding-top: 50px; 
+  padding-bottom: 50px;
+  text-align: center;
+  background: url('https://41.media.tumblr.com/ac46aa24b44b5036e9200abb71f810d9/tumblr_nt5vzxV6Us1ud7rr3o1_1280.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 755px;
+}
+
+.contact-overlay4 {
+  margin-top: -50px;
+  padding: 100px 0;
+  background: rgba(255,255,255, 0.3);
+  height: 755px;
+}
